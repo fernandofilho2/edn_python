@@ -1,3 +1,4 @@
+
 # Calculadora de Preço Total
 # Desenvolva um programa que calcula o preço total de uma compra. Use as seguintes informações:
 
